@@ -6,7 +6,6 @@
 			"location": "Russia",
 			"host": "boardhunt.site",
 			"port": 4747,
-			"websocketPort": 4748,
 			"authRequired": false,
 			"regRequired": false
 		}
