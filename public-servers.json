@@ -1,0 +1,14 @@
+{
+	"servers": [{
+			"id": 0,
+			"name": "Boardhunt",
+			"site": "https://www.boardhunt.ru/",
+			"location": "Russia",
+			"host": "boardhunt.site",
+			"port": 4747,
+			"websocketPort": 4748,
+			"authRequired": false,
+			"regRequired": false
+		}
+	]
+}
