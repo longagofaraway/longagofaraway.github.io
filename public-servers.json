@@ -8,6 +8,30 @@
 			"port": 4747,
 			"authRequired": false,
 			"regRequired": false
+		},
+		{
+			"id": 0,
+			"name": "Chickatrice",
+			"site": "https://www.chickatrice.net/",
+			"location": "Australia",
+			"host": "chickatrice.net",
+			"isInactive": true
+		},
+		{
+			"id": 2,
+			"name": "Tetrarch",
+			"site": "https://skwerlman.github.io/",
+			"location": "USA",
+			"host": "mtg.tetrarch.co",
+			"isInactive": true
+		},
+		{
+			"id": 3,
+			"name": "Rooster Ranges",
+			"site": "https://cockatrice.us/",
+			"location": "USA",
+			"host": "server.cockatrice.us",
+			"isInactive": true
 		}
 	]
 }
