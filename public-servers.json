@@ -1,4 +1,8 @@
 {
+	"wsamateur_servers": [{
+			"host": "127.0.0.1",
+			"port": 7474
+	}],
 	"servers": [{
 			"id": 0,
 			"name": "Boardhunt",
