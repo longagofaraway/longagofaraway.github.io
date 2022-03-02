@@ -1,6 +1,6 @@
 {
 	"wsamateur_servers": [{
-			"host": "127.0.0.1",
+			"host": "212.41.8.37",
 			"port": 7474
 	}],
 	"servers": [{
